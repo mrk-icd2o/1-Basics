@@ -65,6 +65,8 @@ This is where we will be spending the majority of our time. The `draw()` functio
 
 ## Basic Shapes
 
+When we draw shapes in p5.js, the origin `(0,0)` is in the *top left corner*.
+
 The following are some basic shapes that we'll practice drawing today:
 
 - `rect(x, y, width, height)`: places a rectangle at position `(x, y)` (top left corner) with width and height for sizing.
